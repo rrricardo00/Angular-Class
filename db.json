@@ -2,7 +2,33 @@
     "products": [
         {
             "id": 1,
-            "nome": "Ricardo" 
+            "name": "Ricardo",
+            "lastname": "Rosa",
+            "age": 304
+        },
+        {
+            "id": 2,
+            "name": "Ricardo",
+            "lastname": "Rosa2",
+            "age": 302
+        },
+        {
+            "id": 3,
+            "name": "Ricardo",
+            "lastname": "Rosa3",
+            "age": 303
+        },
+        {
+            "id": 4,
+            "name": "Ricardo",
+            "lastname": "Rosa4",
+            "age": 304
+        },
+        {
+            "id": 5,
+            "name": "Ricardo",
+            "lastname": "Rosa5",
+            "age": 306
         }
     ]
 }
