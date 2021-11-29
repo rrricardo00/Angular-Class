@@ -1,0 +1,13 @@
+.footer {
+    span {
+        &.span-container {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+    }
+    .mat-18{
+        color: red;
+    }
+}

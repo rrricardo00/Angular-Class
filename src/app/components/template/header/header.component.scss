@@ -7,4 +7,15 @@ a {
         max-width: 100%;
         width: 200px;
     }
+
+    &.itens-icones{
+        display: flex;
+        align-items: center;
+    }
+
+    &.icone-dashboard{
+        padding-left: 25px;
+    }
 }
+
+
