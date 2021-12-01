@@ -13,6 +13,6 @@ export class HeaderComponent implements OnInit {
    }
 
   ngOnInit(): void {
-    this.nome = "Ricardo"
+    this.nome = "Iníco"
   }
 }
