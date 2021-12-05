@@ -3,32 +3,27 @@
         {
             "id": 1,
             "name": "Ricardo",
-            "lastname": "Rosa",
-            "age": 304
+            "price": 304
         },
         {
             "id": 2,
             "name": "Ricardo",
-            "lastname": "Rosa2",
-            "age": 302
+            "price": 302
         },
         {
             "id": 3,
             "name": "Ricardo",
-            "lastname": "Rosa3",
-            "age": 303
+            "price": 303
         },
         {
             "id": 4,
             "name": "Ricardo",
-            "lastname": "Rosa4",
-            "age": 304
+            "price": 304
         },
         {
             "id": 5,
             "name": "Ricardo",
-            "lastname": "Rosa5",
-            "age": 306
+            "price": 306
         }
     ]
 }
