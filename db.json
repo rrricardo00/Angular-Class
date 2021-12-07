@@ -1,29 +1,34 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Ricardo",
-            "price": 304
-        },
-        {
-            "id": 2,
-            "name": "Ricardo",
-            "price": 302
-        },
-        {
-            "id": 3,
-            "name": "Ricardo",
-            "price": 303
-        },
-        {
-            "id": 4,
-            "name": "Ricardo",
-            "price": 304
-        },
-        {
-            "id": 5,
-            "name": "Ricardo",
-            "price": 306
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Ricardo",
+      "price": 304
+    },
+    {
+      "id": 2,
+      "name": "Ricardo",
+      "price": 302
+    },
+    {
+      "id": 3,
+      "name": "Ricardo",
+      "price": 303
+    },
+    {
+      "id": 4,
+      "name": "Ricardo",
+      "price": 304
+    },
+    {
+      "id": 5,
+      "name": "Ricardo",
+      "price": 306
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.23,
+      "id": 6
+    }
+  ]
 }
