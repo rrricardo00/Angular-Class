@@ -24,11 +24,6 @@
       "id": 5,
       "name": "Ricardo",
       "price": 306
-    },
-    {
-      "name": "Produto de teste",
-      "price": 125.23,
-      "id": 6
     }
   ]
 }
