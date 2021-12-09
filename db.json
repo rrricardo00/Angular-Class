@@ -24,6 +24,31 @@
       "id": 5,
       "name": "Ricardo",
       "price": 306
+    },
+    {
+      "name": "Produto do form",
+      "price": 9.99,
+      "id": 6
+    },
+    {
+      "name": "Notebook Gamer",
+      "price": 6.4,
+      "id": 7
+    },
+    {
+      "name": "Notebok",
+      "price": 4500.55,
+      "id": 8
+    },
+    {
+      "name": "Smart TV",
+      "price": 40000.99,
+      "id": 9
+    },
+    {
+      "name": "Smart TV 2",
+      "price": 41500,
+      "id": 10
     }
   ]
 }
