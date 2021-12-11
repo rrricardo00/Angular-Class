@@ -49,6 +49,11 @@
       "name": "Smart TV 2",
       "price": 41500,
       "id": 10
+    },
+    {
+      "id": 11,
+      "name": "produto new",
+      "price": 123123
     }
   ]
 }
