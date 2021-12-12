@@ -37,6 +37,7 @@ const table_data: Product[] = [
  * (including sorting, pagination, and filtering).
  */
 export class ProductRead2DataSource extends DataSource<Product> {
+  
   data: Product[] = table_data;
   paginator: MatPaginator | undefined;
   sort: MatSort | undefined;
