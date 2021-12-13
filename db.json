@@ -54,6 +54,11 @@
       "id": 11,
       "name": "produto new",
       "price": 123123
+    },
+    {
+      "id": 12,
+      "name": "Produto Teste ",
+      "price": 258974.56
     }
   ]
 }
