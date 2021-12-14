@@ -2,13 +2,13 @@
   "products": [
     {
       "id": 1,
-      "name": "Ricardo",
-      "price": 304
+      "name": "Macarrão não miojo",
+      "price": 1.99
     },
     {
       "id": 2,
-      "name": "Ricardo",
-      "price": 302
+      "name": "Outro equipamento",
+      "price": 2.55
     },
     {
       "id": 3,
