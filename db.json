@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Macarrão não miojo",
-      "price": 1.99
-    },
-    {
       "id": 2,
       "name": "Outro equipamento",
       "price": 2.55
@@ -59,6 +54,11 @@
       "id": 12,
       "name": "Produto Teste ",
       "price": 258974.56
+    },
+    {
+      "id": 13,
+      "name": "macarrao nao miojo 2",
+      "price": 2.2
     }
   ]
 }
