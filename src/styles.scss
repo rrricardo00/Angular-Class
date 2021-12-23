@@ -38,3 +38,6 @@ $angular-app-theme: mat-light-theme((
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .footer {position: fixed; bottom: 0; display: flex; justify-content: center;}
+
+.msg-success{background-color: green; color: #fff;}
+.msg-error{background-color: red; color: #fff;}
